@@ -5,7 +5,7 @@ Anthony Yu, Ashwin Kumar, Harrison O'Neal, Joseph Lee
 https://www.youtube.com/watch?v=s6KjwkIbjnI
 
 ## Link to Code Repository
-https://github.com/akumar-0711/cs4641-project
+https://github.com/hloneal/cs4641-project
 
 ## Introduction: What are you trying to do? Articulate your objectives using absolutely no jargon.
 - As more and more artists are releasing music using streaming platforms such as Spotify, Apple Music, Soundcloud, etc., it is difficult for these artists to get the exposure they need in order to become more popular. We want to create a recommender that takes in data of a user and the kind of music they listen to and generates recommendations for new songs and artists based on that data. Spotify has an enormous amount of content that is similar to the more popular content but simply goes unnoticed. This system is not just to promote the smaller artists that do not get their deserved exposure, but also diversify the kind of content that the user listens to as there may be different genres similar to the common ones.
